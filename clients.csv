@@ -1,0 +1,6 @@
+Nom,Âge,Ville,Revenu
+Alice,25.0,Paris,50000.0
+Bob,,Lyon,40000.0
+Claire,35.0,Marseille,35000.0
+David,40.0,,45000.0
+Emma,22.0,Lyon,
